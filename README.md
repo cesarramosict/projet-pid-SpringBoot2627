@@ -5,7 +5,7 @@ Projet d'intégration de développement.
 
 ## Membres du groupe
 - RAMOS DO CARMO, Julio – Github: https://github.com/cesarramosict
-- VAN DER KELEN, Edwin – Github: https://github.com/VDKEdwin 
+- VAN DER KELEN, Edwin – Github: https://github.com/VDKEdwin
 - DEMAJ, Valdrim – Github: https://github.com/valdemaj03-creator
 - IMERI, Doris – Github: https://github.com/dorisimeri
 - DALIER, Dek – Github: https://github.com/ItsDek
