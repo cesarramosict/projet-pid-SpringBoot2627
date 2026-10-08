@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./Spring%20Boot%202026.png" alt="Spring Boot Team" width="100%">
+</p>
+
+
 # Projet PID 2026-2027
 Projet d'intégration de développement.
 
