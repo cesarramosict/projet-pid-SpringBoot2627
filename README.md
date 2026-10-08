@@ -1,7 +1,7 @@
 # Projet PID 2026-2027
 Projet d'intégration de développement.
 
-# Projet [à créer] - Framework Spring Boot.
+# Projet Réservation 2026 - Framework Spring Boot.
 
 ## Membres du groupe
 - RAMOS DO CARMO, Julio – Github: https://github.com/cesarramosict
@@ -12,6 +12,6 @@ Projet d'intégration de développement.
 - BEN MERDES, Zine-Dine Github: https://github.com/zinedinezd
 - KHADIM, Anis - Github: https://github.com/AnisKhadim
 - BENKTIB, Soufiane - Github: https://github.com/soufianebk-23
-- NIASRI, Joel - Github: https://github.com/niarisij-hub
+- NIARISI, Joel - Github: https://github.com/niarisij-hub
 - BEN KRID,	Youssef - Github: https://github.com/youssefbenkrid
 - EL HALIMI, Mounir - Github: https://github.com/Mounir1190
